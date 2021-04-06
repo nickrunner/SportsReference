@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SportsReference:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SportsReference_jar</output-path>
+    <root id="archive" name="SportsReference.jar">
+      <element id="module-output" name="SportsReference" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../AndroidApps/SportsReference/lib/jsoup-1.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
